@@ -1,1 +1,9 @@
+gt/edu/umg/ing/sistemas/lab2/cursos/controlador/cursocontrolador.class
 gt/edu/umg/ing/sistemas/lab2/cursos/CursosApplication.class
+gt/edu/umg/ing/sistemas/lab2/cursos/dao/cursorepository.class
+gt/edu/umg/ing/sistemas/lab2/cursos/modelo/catedratico.class
+gt/edu/umg/ing/sistemas/lab2/cursos/controlador/catedraticocontrolador.class
+gt/edu/umg/ing/sistemas/lab2/cursos/servicio/cursoservicio.class
+gt/edu/umg/ing/sistemas/lab2/cursos/dao/catedraticorepository.class
+gt/edu/umg/ing/sistemas/lab2/cursos/servicio/catedraticoservicio.class
+gt/edu/umg/ing/sistemas/lab2/cursos/modelo/curso.class
